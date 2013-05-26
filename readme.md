@@ -1,7 +1,7 @@
-SS64 - Severák's shorthand exception
-====================================
+SS64 - Severák's shorthand extenesion
+=====================================
 
-Simple extension for Chrome. It gives you shortcut from your omnibox to ss64.com website and other reference manuals. Simply type `ss` press tab and later type your question (e.g. `man mount`).
+Simple extension for Chrome. It gives you shortcut from your omnibox to [ss64.com](http://ss64.com/) website and other reference manuals. Simply type `ss` press tab and later type your question (e.g. `man mount`).
 
 Possible subject codes are:
 
