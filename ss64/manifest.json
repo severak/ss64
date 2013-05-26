@@ -1,0 +1,12 @@
+{
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "description": "Shortcut to SS64.com site and some reference manuals.",
+  "name": "SS64",
+  "omnibox": { "keyword" : "ss" },
+  "permissions": [ "tabs", "http://strajt9.sweb.cz/", "http://svita.cz/" ],
+  "version": "1",
+  "minimum_chrome_version": "9",
+  "manifest_version": 2
+}
